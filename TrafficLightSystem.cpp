@@ -3,7 +3,7 @@
 #include <chrono>
 #include <thread>
 
-using namespace std;
+using namespace std
 
 // Function for stooping the light for 60 seconds
 void runLongTask() {                 
