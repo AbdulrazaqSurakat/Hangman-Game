@@ -1,3 +1,6 @@
-# Traffic-Light-System
-Traffic Management System will provide a program to automate the regulation of traffic lights. It will make use of Standard C++ libraries to create a program that will automatically manage the traffic using traffic signals that will change based on the logic defined in the program. 
-The behiavior of the traffic light will depend entirely on the starting traffic light. Ex. If a person arrives at the light at "Green", the next traffic light will be Red...
+# Hangman Game
+The hangman project game consists of guessing a secret word of a given length by entering one letter at a time. The game ends if the user does not correctly guess the word within the allotted number of guesses. The Hangman game will utilize classes to store the hidden word and guesses a class containing member methods used to track progress, and a class to represent the hangman figure. The game logic will be written using a variety of features such as structs, switch statements, and loops of C++ programming language.
+
+Technologies Required: C++ programming language, Object Oriented Programming (OOPS).
+
+
